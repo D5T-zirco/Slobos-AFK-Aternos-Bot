@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "darwishxirfan.aternos.me",
+    "port": 56936,
     "version": "",
     "try-creative": false
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "i love minors",
+        "I like to stroke the sword while lamenting the social realities"
       ]
     },
     "chat-log": true,
