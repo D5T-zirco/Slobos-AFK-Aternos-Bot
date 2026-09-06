@@ -8,7 +8,7 @@
   "server": {
     "ip": "darwishxirfan.aternos.me",
     "port": 56936,
-    "version": "",
+    "version": "1.26.2",
     "try-creative": false
   },
   "position": {
@@ -85,3 +85,4 @@
     "respond": true
   }
 }
+
